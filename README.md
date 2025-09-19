@@ -34,6 +34,6 @@ social engineering tricks, and an interactive quiz to reinforce awareness.
 - Understanding phishing and fake websites
 - Recognizing social engineering tricks
 - Best practices to stay safe online
-- How awareness is a key defense in cybersecurity
+- How awareness is a key defense in cybersecurity.
 
 
